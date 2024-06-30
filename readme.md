@@ -1,7 +1,15 @@
-![LeetCode Logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"width="20%"/>
+</div>
 
+# 
 
-# LeetCode Solutions Repository
+<div align="center">
+  <img style="margin-right: 30;" src="https://github.com/sabbirsami/t-bhai/assets/73050937/2d94ff79-6928-417e-acbf-1ff0a4b8a798"width="20%"/><img src="https://github.com/sabbirsami/t-bhai/assets/73050937/fa11d37f-128c-4bfb-a97e-14b8882b664d"width="35%"/><img src="https://github.com/sabbirsami/t-bhai/assets/73050937/97c540ca-2a82-4fea-a81a-16c4c9dfb9d4"width="20%"/>
+</div>
+<h3 align="center">50 Days of Problems solving</h3>
+
+## LeetCode Solutions Repository
 
 This repository contains my solutions to various LeetCode problems. Each solution is implemented in JavaScript and represents my approach to solving the problems. I have organized the solutions by problem number and name for easy navigation.
 
@@ -16,4 +24,7 @@ Each solution is implemented as a direct HTML file. You can find the solution fo
 
 
 Happy coding and problem-solving!
+
+
+
 
